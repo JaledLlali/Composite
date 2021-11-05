@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>PHP</ID>
+  <OriginalElement>C:/xampp/htdocs/Composite</OriginalElement>
+  <nodes />
+  <notes />
+  <edges>
+    <edge source="\Composite\Playlist" target="\Composite\MusicInterface" relationship="REALIZATION">
+      <point x="0.0" y="-83.5" />
+      <point x="288.5" y="81.0" />
+      <point x="194.75" y="81.0" />
+      <point x="0.0" y="28.0" />
+    </edge>
+    <edge source="\Composite\Song" target="\Composite\MusicInterface" relationship="REALIZATION">
+      <point x="0.0" y="-73.0" />
+      <point x="101.0" y="81.0" />
+      <point x="194.75" y="81.0" />
+      <point x="0.0" y="28.0" />
+    </edge>
+  </edges>
+  <settings layout="Hierarchic" zoom="1.0" showDependencies="false" x="177.5" y="174.5" />
+  <SelectedNodes />
+  <Categories>
+    <Category>Constants</Category>
+    <Category>Constructors</Category>
+    <Category>Fields</Category>
+    <Category>Methods</Category>
+  </Categories>
+  <VISIBILITY>private</VISIBILITY>
+</Diagram>
+
